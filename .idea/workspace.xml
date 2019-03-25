@@ -4,7 +4,9 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8634ba30-a2b4-469b-a8f9-1425b442ddea" name="Default Changelist" comment="" />
+    <list default="true" id="8634ba30-a2b4-469b-a8f9-1425b442ddea" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +148,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Confirmation" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -172,6 +174,7 @@
       <updated>1553238612852</updated>
       <workItem from="1553238616775" duration="15344000" />
       <workItem from="1553492028791" duration="101000" />
+      <workItem from="1553493090833" duration="201000" />
     </task>
     <task id="LOCAL-00001" summary="2nd commit with class based views">
       <created>1553492116298</created>
@@ -180,16 +183,23 @@
       <option name="project" value="LOCAL" />
       <updated>1553492116298</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="3nd commit with class based views">
+      <created>1553493177980</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1553493177981</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15445000" />
+    <option name="totallyTimeSpent" value="15646000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="23" width="1669" height="1097" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.271313" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27629122" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -203,8 +213,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.3293979" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.31540847" />
-      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49968886" visible="true" weight="0.31437436" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="12" sideWeight="0.50031114" side_tool="true" visible="true" weight="0.31437436" />
       <window_info anchor="bottom" id="Python Console" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -219,7 +229,9 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
     <MESSAGE value="2nd commit with class based views" />
-    <option name="LAST_COMMIT_MESSAGE" value="2nd commit with class based views" />
+    <MESSAGE value="3nd commit with class based views" />
+    <option name="LAST_COMMIT_MESSAGE" value="3nd commit with class based views" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main/models.py">
