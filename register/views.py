@@ -1,13 +1,14 @@
 from django.shortcuts import render
 
-from .forms import EquipmentForm
-
+from .forms import DeviceForm
+from django.views.generic import ListView
+from .models import Device
 
 def add(request):
-    form = EquipmentForm(request.POST or None)
+    form = DeviceForm(request.POST or None)
     if form.is_valid():
         form.save()
-        form = EquipmentForm()
+        form = DeviceForm()
     context = {
         'form': form
     }
@@ -18,9 +19,9 @@ def delete(request):
     return render(request, 'register/delete.html')
 
 
-def list(request):
-    return render(request, 'register/list.html')
+class DeviceListView(ListView):
+    model = Device
+    template_name = 'register/list.html'  # <app>/<model>_<viewtype>.html
+    context_object_name = 'device'
+    ordering = ['ins_ref']
 
-
-def search(request):
-    return render(request, 'register/search.html')

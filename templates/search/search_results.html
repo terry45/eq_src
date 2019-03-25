@@ -1,0 +1,28 @@
+
+{% extends 'base.html' %}
+{% load static %}
+
+{% block content %}
+
+
+<body>
+<div class="container">
+ <div>
+    <body>
+        <p>You searched for: <strong>{{ query }}</strong></p>
+
+        {% if device %}
+            <p>Found {{ device.count }}</p>
+            <ul>
+                {% for d in device %}
+                <li>{{ device }}</li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p>Nothing matched your search criteria.</p>
+        {% endif %}
+    </body>
+    </div>
+ </div>
+</body>
+{% endblock %}
