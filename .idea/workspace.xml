@@ -4,38 +4,7 @@
     <option name="SCOPE_TYPE" value="3" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8634ba30-a2b4-469b-a8f9-1425b442ddea" name="Default Changelist" comment="2nd commit with class based views">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/register/migrations/0002_auto_20190322_0725.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/register/migrations/0003_auto_20190322_0731.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/register/migrations/0004_auto_20190322_0734.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/register/migrations/0005_auto_20190323_0229.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/search/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/search/search_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/search/search_results.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/eq_src.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/eq_src.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eq_src/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/eq_src/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eq_src/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/eq_src/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/register/forms.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/register/migrations/0001_initial.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/register/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/register/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/register/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/register/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/js/vendor/jquery/jquery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/admin/js/vendor/xregexp/xregexp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/partials/_navbar.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/partials/_navbar.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/register/list.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/register/list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/register/search.html" beforeDir="false" />
-    </list>
+    <list default="true" id="8634ba30-a2b4-469b-a8f9-1425b442ddea" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -202,12 +171,20 @@
       <option name="presentableId" value="Default" />
       <updated>1553238612852</updated>
       <workItem from="1553238616775" duration="15344000" />
-      <workItem from="1553492028791" duration="69000" />
+      <workItem from="1553492028791" duration="101000" />
     </task>
+    <task id="LOCAL-00001" summary="2nd commit with class based views">
+      <created>1553492116298</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1553492116298</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15413000" />
+    <option name="totallyTimeSpent" value="15445000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="3" y="23" width="1669" height="1097" extended-state="0" />
